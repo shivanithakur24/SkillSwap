@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+skill-swap-backend/node_modules/
+skill-swap-frontend/node_modules/
+
+# Build / Temp / Secrets
+.env
+/uploads/
+dist/
+*.log
+.DS_Store
